@@ -1,5 +1,8 @@
 package recursion;
 import java.util.Scanner;
+
+
+/**/
 public class Chick_Rabbit {
 	public static void getMax_Min(int n) {
 		int max=0, min=0;
