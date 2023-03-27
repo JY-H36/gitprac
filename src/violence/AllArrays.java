@@ -85,7 +85,7 @@ public class AllArrays {
 	        AllArrays demo = new AllArrays();
 	        ArrayList<String> res = new ArrayList<>();
 	        res = demo.getPermutation0(aa);
-	 
+	        //test
 	        for (String re : res) {
 	            System.out.println(re);
 	        }
